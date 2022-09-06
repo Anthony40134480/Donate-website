@@ -1,0 +1,36 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0%;
+}
+.donate-container{
+    text-align: center;
+}
+.white-title{
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    padding-top: 40px;
+}
+.buddha-qoute{
+    font-size: 25px;
+    font-weight: bold;
+    color: beige;
+    padding-bottom: 35px;
+}
+.donate-link{
+    background-image: linear-gradient(salmon, tomato);
+    padding: 20px 30px;
+    text-decoration:none;
+    border-radius: 10px;
+}
+#first-area{
+    height: 700px;
+    background-image: url(donate-today-main/images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    top: -70px;
+    }
