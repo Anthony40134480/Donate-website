@@ -34,3 +34,46 @@ body{
     position: relative;
     top: -70px;
     }
+    .heading{
+        text-align: center;
+        font-weight: bold;
+        font-size: 50px;
+    }
+    .second-sub-heading{
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px;
+        margin-bottom: 100px;
+    }
+    .five-width{
+        width: 15%;
+        font-weight: bold;
+        font-size: 45px;
+        box-shadow: 20px 20px 20px gray;
+        margin: 0 30px;
+        text-align: center;
+    }
+    .money-area{
+        display: flex;
+        margin-left: 70px;
+        margin-bottom: 50px;
+    }
+    .taka-color{
+        background-color: green;
+    }
+    .other-tk{
+        text-align: center;
+    }
+    .border{
+        border-bottom: 3px solid gray;
+        width: 50%;
+        margin-left: 25%;
+        margin-bottom: 50px;
+    }
+    .donate-taka{
+        background-image: linear-gradient(salmon, tomato);
+        padding: 20px 30px;
+        text-decoration:none;
+        border-radius: 10px;
+        margin-left: 44%;
+    }
