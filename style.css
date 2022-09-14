@@ -110,4 +110,53 @@ body{
     }
     .donation-container{
         margin-top: 150px;
+        margin-bottom: 150px;
     }
+    #e-mail-area{
+        display: flex;
+        margin-left: 24%;
+        width: 809px;
+        height: 200px;
+        background-color: lightgoldenrodyellow;
+        border-radius: 5px;
+    }
+    #e-mail{
+        width: 432px;
+        height: 48px;
+        background-color: gainsboro;
+        font-weight: bold;
+        border-radius: 5px 0 0 5px;
+        padding-top: 17px;
+        padding-left: 15px;
+        margin-top: 70px;
+        margin-left: 90px;
+    }
+    #subscribe{
+        width: 157px;
+        height: 48px;
+        background-color: tomato;
+        color: white;
+        border-radius: 0 5px 5px 0;
+        padding-top: 17px;
+        text-align: center;
+        margin-top: 70px;
+    }
+    #update-area{
+        margin-bottom: 150px;
+    }
+    #humble-area{
+        background-color: black;
+        height: 200px;
+    }
+    #humble-area h1{
+        color: tomato;
+        text-align: center;
+        font-family: Lobster;
+        font-size: 50px;
+        padding-top: 30px;
+    }
+    #humble-area p{
+        color: white;
+        text-align: center;
+    }
+    
